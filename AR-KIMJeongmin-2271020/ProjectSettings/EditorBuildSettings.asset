@@ -6,7 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SamplesResources/Scenes/0-Main.unity
-    guid: a09cb257d566c489595b16ab37547666
+    path: Assets/HW18_AR_Test/HW18_AR_Test.unity
+    guid: d311187f002749f4a85030908954a104
   m_configObjects: {}
-  m_UseUCBPForAssetBundles: 0
